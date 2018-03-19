@@ -1,0 +1,21 @@
+[Info] <11/14/2017 09:43:18> Configuration file is loaded !
+[Info] <11/14/2017 09:43:18> WebServer started on http://localhost:9000/
+[Info] <11/14/2017 09:44:38> Configuration file is loaded !
+[Info] <11/14/2017 09:44:39> WebServer started on http://localhost:9000/
+[Info] <11/14/2017 09:47:16> Configuration file is loaded !
+[Info] <11/14/2017 09:47:16> WebServer started on http://localhost:9000/
+[Info] <11/14/2017 09:50:05> Configuration file is loaded !
+[Info] <11/14/2017 09:50:06> WebServer started on http://localhost:9000/
+[Info] <11/14/2017 09:51:17> Configuration file is loaded !
+[Info] <11/14/2017 09:51:18> WebServer started on http://localhost:9000/
+[Info] <11/14/2017 09:51:36> Configuration file is loaded !
+[Info] <11/14/2017 09:51:37> WebServer started on http://localhost:9000/
+[Info] <11/14/2017 09:52:23> Configuration file is loaded !
+[Info] <11/14/2017 09:52:24> WebServer started on http://localhost:9000/
+[Info] <11/14/2017 09:52:36> Configuration file is loaded !
+[Info] <11/14/2017 09:52:37> WebServer started on http://localhost:9000/
+[Info] <11/14/2017 09:53:26> Configuration file is loaded !
+[Info] <11/14/2017 09:53:26> WebServer started on http://localhost:9000/
+[Info] <11/14/2017 10:52:16> Configuration file is loaded !
+[Info] <11/14/2017 10:52:20> Initializing Database...
+[Info] <11/14/2017 10:52:20> Opening Database...

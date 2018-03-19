@@ -1,0 +1,5 @@
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.Constant\bin\Debug\WebAPIDevOps.Constant.dll
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.Constant\bin\Debug\WebAPIDevOps.Constant.pdb
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.Constant\obj\Debug\WebAPIDevOps.Constant.csproj.CoreCompileInputs.cache
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.Constant\obj\Debug\WebAPIDevOps.Constant.dll
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.Constant\obj\Debug\WebAPIDevOps.Constant.pdb

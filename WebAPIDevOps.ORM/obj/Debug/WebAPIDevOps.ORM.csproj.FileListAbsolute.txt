@@ -1,0 +1,15 @@
+C:\Users\Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.ORM\bin\Debug\Stump.ORM.dll
+C:\Users\Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.ORM\bin\Debug\Stump.ORM.pdb
+C:\Users\Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.ORM\bin\Debug\MySql.Data.dll
+C:\Users\Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.ORM\bin\Debug\MySql.Data.xml
+C:\Users\Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.ORM\obj\Debug\WebAPIDevOps.ORM.csprojResolveAssemblyReference.cache
+C:\Users\Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.ORM\obj\Debug\Stump.ORM.dll
+C:\Users\Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.ORM\obj\Debug\Stump.ORM.pdb
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.ORM\bin\Debug\Stump.ORM.dll
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.ORM\bin\Debug\Stump.ORM.pdb
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.ORM\bin\Debug\MySql.Data.xml
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.ORM\obj\Debug\WebAPIDevOps.ORM.csprojResolveAssemblyReference.cache
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.ORM\obj\Debug\WebAPIDevOps.ORM.csproj.CoreCompileInputs.cache
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.ORM\obj\Debug\Stump.ORM.dll
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.ORM\obj\Debug\Stump.ORM.pdb
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.ORM\bin\Debug\MySql.Data.dll

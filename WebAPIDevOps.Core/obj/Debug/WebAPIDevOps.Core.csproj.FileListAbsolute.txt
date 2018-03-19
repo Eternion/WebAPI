@@ -1,0 +1,13 @@
+c:\users\phantom\documents\visual studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.Core\obj\Debug\WebAPIDevOps.Core.csprojResolveAssemblyReference.cache
+c:\users\phantom\documents\visual studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.Core\bin\Debug\WebAPIDevOps.Core.dll
+c:\users\phantom\documents\visual studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.Core\bin\Debug\WebAPIDevOps.Core.pdb
+c:\users\phantom\documents\visual studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.Core\bin\Debug\NLog.dll
+c:\users\phantom\documents\visual studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.Core\obj\Debug\WebAPIDevOps.Core.dll
+c:\users\phantom\documents\visual studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.Core\obj\Debug\WebAPIDevOps.Core.pdb
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.Core\bin\Debug\WebAPIDevOps.Core.dll
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.Core\bin\Debug\WebAPIDevOps.Core.pdb
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.Core\bin\Debug\NLog.dll
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.Core\obj\Debug\WebAPIDevOps.Core.csprojResolveAssemblyReference.cache
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.Core\obj\Debug\WebAPIDevOps.Core.csproj.CoreCompileInputs.cache
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.Core\obj\Debug\WebAPIDevOps.Core.dll
+C:\Users\Phantom.Phantom\Documents\Visual Studio 2017\Projects\WebAPIDevOps\WebAPIDevOps.Core\obj\Debug\WebAPIDevOps.Core.pdb

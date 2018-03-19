@@ -1,0 +1,25 @@
+﻿<Configuration>
+  <WebAPIDevOps>
+    <Server>
+      <WebServer>
+        <!--Editable as Running : False-->
+        <Variable name="WebAPIPort" serialized="false">9000</Variable>
+        <!--Editable as Running : False-->
+        <Variable name="WebAPIIP" serialized="false">localhost</Variable>
+        <!--Editable as Running : False-->
+        <Variable name="WebAPIKey" serialized="false" />
+        <!--Editable as Running : False-->
+        <Variable name="DatabaseConfiguration" serialized="true">
+          <DatabaseConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+            <User>root</User>
+            <Password />
+            <DbName>devops_data</DbName>
+            <Host>localhost</Host>
+            <Port>3306</Port>
+            <ProviderName>MySql.Data.MySqlClient</ProviderName>
+          </DatabaseConfiguration>
+        </Variable>
+      </WebServer>
+    </Server>
+  </WebAPIDevOps>
+</Configuration>

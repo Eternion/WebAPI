@@ -1,0 +1,7 @@
+C:\Users\Imran\Desktop\Azote\Core\Stump.ORM\bin\Debug\Stump.ORM.dll
+C:\Users\Imran\Desktop\Azote\Core\Stump.ORM\bin\Debug\Stump.ORM.pdb
+C:\Users\Imran\Desktop\Azote\Core\Stump.ORM\bin\Debug\MySql.Data.dll
+C:\Users\Imran\Desktop\Azote\Core\Stump.ORM\bin\Debug\MySql.Data.xml
+C:\Users\Imran\Desktop\Azote\Core\Stump.ORM\obj\Debug\Stump.ORM.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\Azote\Core\Stump.ORM\obj\Debug\Stump.ORM.dll
+C:\Users\Imran\Desktop\Azote\Core\Stump.ORM\obj\Debug\Stump.ORM.pdb
